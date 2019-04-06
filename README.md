@@ -1,4 +1,4 @@
-This addon includes high-definition pack of 90 playermodels textured by Themanclaw. Models and textures won't reskin default models and textures. If you want get paths for DarkRP jobs then you should check [i]retrime_citizens.lua[/i] file ;)
+This addon includes high-definition pack of 90 playermodels textured by Themanclaw. Models and textures won't reskin default models and textures.
 
 Credits:
 - **VALERY** (addon) https://steamcommunity.com/profiles/76561198074911795/
