@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/retrime/male/group04/citizen_sheet"
+	"$halflambert" 0
+	"$bumpmap" "models/retrime/male/group04/citizen_sheet_normal"
+	"$phongexponent" 5
+	"$bumpmapalphaphongmask" 1
+	"$phongboost" 1.0
+	"$phongfresnelranges" "[0 0.5 1]"
+}
